@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "unistd.h": "c",
+        "ft_ft": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

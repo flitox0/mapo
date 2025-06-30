@@ -1,0 +1,18 @@
+int ft_ft(int *nbr)
+{
+    int* f = 42;
+
+}
+void ft_ft2(int nbr){
+
+   int i = 42; 
+}
+#include<stdio.h>
+
+int main (void){
+
+    int a = 0 ;
+    int b ; 
+    printf("%d", ft_ft(a) );
+
+}
